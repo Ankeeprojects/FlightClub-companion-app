@@ -1,3 +1,3 @@
 int funcao(char coisa) {
-	return 0;
+	return 42;
 }
