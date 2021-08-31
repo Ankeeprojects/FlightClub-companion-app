@@ -39,5 +39,5 @@ while not respondeu:
         resp.raise_for_status()
         print("We have successfully added you to the mailing list, thank you!")
     else:
-        print("Something went wrong. Please insert your details correctly.\n\n")
+        print("Something went wrong. Please insert your details correctly.\n\n\n")
 
